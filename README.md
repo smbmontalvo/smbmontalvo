@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Sebastian Beingolea — Desarrollador móvil y full-stack, Lima, Perú" width="100%">
+<img src="https://raw.githubusercontent.com/smbmontalvo/smbmontalvo/main/assets/header.svg" alt="Sebastian Beingolea — Desarrollador móvil y full-stack, Lima, Perú" width="100%">
 
 <br>
 
